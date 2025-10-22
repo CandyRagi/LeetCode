@@ -1,4 +1,4 @@
-# My solution (Wrong)
+# My solution (Wrong) due to Unclear instructions
 class Solution(object):
     def longestCommonPrefix(self,strs):
         smallest_str=strs[0]
